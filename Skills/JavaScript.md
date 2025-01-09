@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - `Object` k
-  - `Function` k 
-  - `Boolean` k
-  - `Number` 
+  - `Object`: 🎓 known
+  - `Function`: 🎓 known
+  - `Boolean`: 🎓 known
+  - `Number`
   - `BigInt`
-  - `String` k
+  - `String`: 🎓 known
   - `Symbol`
   - `Infinity`
   - `NaN`
   - `undefined`
-  - `null` h
+  - `null`: 👂 heard
   - `this`
   - `instanceof`
   - `...spread`
@@ -37,7 +37,7 @@
   - Logical Assignment
   - Bitwise operators
   - Ternary operator
-  - `void` h
+  - `void`: 👂 heard
   - `yield`
   - `await`
   - Template literal
@@ -48,8 +48,8 @@
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt` k 
-  - `Number.parseFloat` k
+  - `Number.parseInt`: 🎓 known
+  - `Number.parseFloat`: 🎓 known
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,27 +59,27 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` k
-  - `while` k
-  - `do..while` k
-  - `for` k
-  - `for..in` k
-  - `for..of` h
+  - `if`: 🎓 known
+  - `while`: 🎓 known
+  - `do..while`: 🎓 known
+  - `for`: 🎓 known
+  - `for..in`: 🎓 known
+  - `for..of`: 👂 heard
   - `for await`
   - `throw`
-  - `break` k
+  - `break`: 🎓 known
   - `continue`
-  - `import` 
+  - `import`
   - `export`
   - `label`
   - `try..catch`
-  - `switch` h
-  - `class` h
+  - `switch`: 👂 heard
+  - `class`: 👂 heard
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function 
+  - Arrow function
   - Async function
   - Function declaration
   - Function expression
@@ -88,10 +88,10 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` h
+  - `return`: 👂 heard
 - Data structures
-  - `Array` k
-  - `Map` 
+  - `Array`: 🎓 known
+  - `Map`
   - `Set`
   - `WeakMap`
   - `WeakSet`
@@ -104,14 +104,14 @@
   - `Date`
   - `Math`
   - `Reflect`
-  - `Error` k
+  - `Error`: 🎓 known
   - `Atomics`
-  - `JSON` h
+  - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console`: 👂 heard
   - Timers
 - Infrastructure
   - V8
