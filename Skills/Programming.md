@@ -4,21 +4,21 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm k
-  - Syntax k
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm h
+  - Programm: 👂 heard
   - Programming paradigm
   - Programming language
   - Contract
-  - Module h
-  - Library h
+  - Module: 👂 heard
+  - Library: 👂 heard
   - Package
   - Component
   - Framework
-  - Platform h
+  - Platform: 👂 heard
   - Source code
   - Object code
   - Machine code
@@ -32,27 +32,27 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value k
+  - Value: 🎓 known
   - Identifier
   - Variable
-  - Constant k
+  - Constant: 🎓 known
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function k
+  - Function: 🎓 known
   - Procedure
-  - Method h
-  - Class h
+  - Method: 👂 heard
+  - Class: 👂 heard
   - Prototype
-  - Event 
+  - Event
   - Type
   - Flag
   - Lexical scope
-  - Code block h
+  - Code block: 👂 heard
   - Conditions
-  - Loops k
-  - Assignment 
+  - Loops: 🎓 known
+  - Assignment
   - Regular expression
   - Interface
   - Namespaces
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument k
-  - Parameter k
+  - Argument: 🎓 known
+  - Parameter: 🎓 known
   - Pure function
   - Lambda expression
   - Side effects
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array k
+  - Array: 🎓 known
   - Structure
   - Record
   - Enum
   - Instance
-  - Object k
+  - Object: 🎓 known
   - Collection
   - Set
   - Hash table
@@ -164,8 +164,8 @@
   - Code review
   - Exception
   - Unittesting
-  - git k
-  - Github k
+  - git: 🎓 known
+  - Github: 🎓 known
   - Docker
   - Kubernetes
   - GCC

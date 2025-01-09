@@ -20,23 +20,23 @@
   - Parallel programming
   - Actor Model
   - Thread
-  - Process 
+  - Process
 - Async contracts
   - Callbacks
   - Callback-last-error-first
   - Thenable
-  - Promise 
+  - Promise
   - Async/await
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event  
+  - Event
   - Coroutine
   - Goroutine
   - Signal
-  - Stream 
+  - Stream
   - Chain of responsibility
   - Middleware
   - Locks
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers h
+  - Timers: 👂 heard
   - `setImmediate`
   - `nextTick`
   - AbortController

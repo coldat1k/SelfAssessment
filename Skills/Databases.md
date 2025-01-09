@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types h
+  - Data types: 👂 heard
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -10,9 +10,9 @@
   - Relational databases
   - Key-value store
   - Tuple store
-  - Graph databases h 
-  - Object databases h
-  - Column databases h
+  - Graph databases: 👂 heard
+  - Object databases: 👂 heard
+  - Column databases: 👂 heard
   - Navigational databases
   - Hierarchical databases
   - In-memory databases
@@ -31,19 +31,19 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions t
+  - SQL functions: 📢 talked
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` t
+  - `SELECT`: 📢 talked
   - `INSERT`
-  - `UPDATE` t
-  - `DELETE` t
+  - `UPDATE`: 📢 talked
+  - `DELETE`: 📢 talked
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` t
-  - `GROUP BY` t
+  - `ORDER BY`: 📢 talked
+  - `GROUP BY`: 📢 talked
   - `HAVING`
   - `EXISTS`
   - `JOIN`
@@ -72,9 +72,9 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL h
+  - MySQL: 👂 heard
   - MariaDB
-  - MS SQL Server h
+  - MS SQL Server: 👂 heard
   - Redis
   - Rabbit
   - MongoDB

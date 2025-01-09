@@ -2,8 +2,8 @@
 
 - Application structure
   - Modularity
-  - Components h
-  - Directories h 
+  - Components: 👂 heard
+  - Directories: 👂 heard
   - GRASP
   - SOLID
   - GoF patterns
@@ -19,7 +19,7 @@
   - Coupling
   - Cyclomatic complexity
   - Reliability
-  - Quality h
+  - Quality: 👂 heard
   - Availability
   - Flexibility
   - Law of Demeter (LoD)
@@ -64,9 +64,9 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design h
+  - System design: 👂 heard
   - Process modelling
-  - Data modelling h
+  - Data modelling: 👂 heard
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
