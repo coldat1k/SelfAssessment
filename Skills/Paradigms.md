@@ -83,7 +83,7 @@
   - Decorator
   - Flyweight
   - Mediator
-  - Memento
+  - Memento 
   - Template Method
   - Visitor
   - Reactor

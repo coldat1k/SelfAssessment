@@ -4,8 +4,8 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm k
+  - Syntax k
   - Semantics
   - Abstraction
   - Paradigm
@@ -13,12 +13,12 @@
   - Programming paradigm
   - Programming language
   - Contract
-  - Module
-  - Library
+  - Module h
+  - Library h
   - Package
   - Component
   - Framework
-  - Platform
+  - Platform h
   - Source code
   - Object code
   - Machine code
@@ -32,27 +32,27 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
+  - Value k
   - Identifier
   - Variable
-  - Constant
+  - Constant k
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function k
   - Procedure
-  - Method
-  - Class
+  - Method h
+  - Class h
   - Prototype
-  - Event
+  - Event 
   - Type
   - Flag
   - Lexical scope
-  - Code block
+  - Code block h
   - Conditions
-  - Loops
-  - Assignment
+  - Loops k
+  - Assignment 
   - Regular expression
   - Interface
   - Namespaces
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument k
+  - Parameter k
   - Pure function
   - Lambda expression
   - Side effects
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array k
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
+  - Object k
   - Collection
   - Set
   - Hash table
@@ -164,8 +164,8 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git k
+  - Github k
   - Docker
   - Kubernetes
   - GCC

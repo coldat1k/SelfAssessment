@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types h
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -10,9 +10,9 @@
   - Relational databases
   - Key-value store
   - Tuple store
-  - Graph databases
-  - Object databases
-  - Column databases
+  - Graph databases h 
+  - Object databases h
+  - Column databases h
   - Navigational databases
   - Hierarchical databases
   - In-memory databases
@@ -31,19 +31,19 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions t
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
+  - `SELECT` t
   - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `UPDATE` t
+  - `DELETE` t
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `ORDER BY` t
+  - `GROUP BY` t
   - `HAVING`
   - `EXISTS`
   - `JOIN`
@@ -72,9 +72,9 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL u
   - MariaDB
-  - MS SQL Server
+  - MS SQL Server u
   - Redis
   - Rabbit
   - MongoDB

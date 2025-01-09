@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object` k
+  - `Function` k 
+  - `Boolean` k
+  - `Number` 
   - `BigInt`
-  - `String`
+  - `String` k
   - `Symbol`
   - `Infinity`
   - `NaN`
   - `undefined`
-  - `null`
+  - `null` h
   - `this`
   - `instanceof`
   - `...spread`
@@ -37,7 +37,7 @@
   - Logical Assignment
   - Bitwise operators
   - Ternary operator
-  - `void`
+  - `void` h
   - `yield`
   - `await`
   - Template literal
@@ -48,8 +48,8 @@
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `Number.parseInt` k 
+  - `Number.parseFloat` k
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,27 +59,27 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` k
+  - `while` k
+  - `do..while` k
+  - `for` k
+  - `for..in` k
+  - `for..of` h
   - `for await`
   - `throw`
-  - `break`
+  - `break` k
   - `continue`
-  - `import`
+  - `import` 
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
-  - `class`
+  - `switch` h
+  - `class` h
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function 
   - Async function
   - Function declaration
   - Function expression
@@ -88,10 +88,10 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` h
 - Data structures
-  - `Array`
-  - `Map`
+  - `Array` k
+  - `Map` 
   - `Set`
   - `WeakMap`
   - `WeakSet`
@@ -104,9 +104,9 @@
   - `Date`
   - `Math`
   - `Reflect`
-  - `Error`
+  - `Error` k
   - `Atomics`
-  - `JSON`
+  - `JSON` h
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`

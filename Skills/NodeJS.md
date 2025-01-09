@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js 
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
@@ -93,14 +93,14 @@
   - Logging
   - Application configuring
   - Testing
-  - CI/CD
+  - CI/CD k
   - Readable
   - Writable
   - Transform
   - Back pressure
   - Buffer
-  - Console
-  - Inspector
+  - Console k
+  - Inspector k
 - Data access
   - Data access layer
   - Repository
@@ -126,14 +126,14 @@
   - Data race
 - Integrations and bindings
   - Native addons
-  - `C` and `C++` addons
-  - `Rust` addons
+  - `C` and `C++` addons h
+  - `Rust` addons h
   - `Zig` addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
-  - NAPI `C` and `C++`
-  - NAPI `Rust`
-  - NAPI `Zig`
+  - NAPI `C` and `C++` h
+  - NAPI `Rust` h 
+  - NAPI `Zig` 
   - Webassembly `WAT`
   - Webassembly `C` and `C++`
   - Webassembly `Rust`

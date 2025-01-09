@@ -2,8 +2,8 @@
 
 - Application structure
   - Modularity
-  - Components
-  - Directories
+  - Components h
+  - Directories h 
   - GRASP
   - SOLID
   - GoF patterns
@@ -19,7 +19,7 @@
   - Coupling
   - Cyclomatic complexity
   - Reliability
-  - Quality
+  - Quality h
   - Availability
   - Flexibility
   - Law of Demeter (LoD)
@@ -64,7 +64,7 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design h
   - Process modelling
   - Data modelling
   - Solution components
